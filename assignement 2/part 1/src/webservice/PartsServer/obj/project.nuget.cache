@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "uFEGyrlhDEJzuKEWkcMjQ053knYpvujcmi8GIN87lwv3cPF/04MXlHg1zUGw7R4ZLf3Inls3aU0YB1VHvQdLyA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\enzoj\\Documents\\mslearn-dotnetmaui-consume-rest-services\\src\\webservice\\PartsServer\\PartsServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\enzoj\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\enzoj\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\enzoj\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\enzoj\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\enzoj\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\enzoj\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
