@@ -3,7 +3,7 @@
 
 Exercice 1 :
 
-![enzo](screen/1.jpg)
+![enzo](screen/1.png)
 
 ![enzo](screen/2.jpg)
 
