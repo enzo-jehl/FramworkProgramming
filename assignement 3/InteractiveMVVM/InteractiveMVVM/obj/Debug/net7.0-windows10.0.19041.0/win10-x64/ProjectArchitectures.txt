@@ -1,0 +1,1 @@
+C:\Users\enzoj\source\repos\InteractiveMVVM\InteractiveMVVM\InteractiveMVVM.csproj;x64
