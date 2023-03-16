@@ -2,55 +2,55 @@
   {
     "Name": "raptor",
     "Location": "Asia",
-    "Details": "ayant vécu durant le Crétacé supérieur dans ce qui est aujourd'hui l'Asie, il y a entre 75 et 71 millions d'années.",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg",
-    "Population": 10000,
-    "Latitude": -8.783195,
-    "Longitude": 34.508523
+    "Details": "Lived during the Late Cretaceous in what is now Asia, between 75 and 71 million years ago.",
+    "Image": "https://raw.githubusercontent.com/enzo-jehl/FramworkProgramming/master/assignement5/raptor.jpg",
+    "poid": 17,
+    "Latitude": 35.860535,
+    "Longitude": -261.502268
   },
   {
     "Name": "tricératops",
-    "Location": "ouest de l'Amérique du Nord",
-    "Details": "Il vécut à la toute fin de « l'ère des dinosaures », au Crétacé supérieur, il y a 66 millions d'années, dans l'ouest de l'Amérique du Nord.",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/capuchin.jpg",
-    "Population": 23000,
-    "Latitude": 12.769013,
-    "Longitude": -85.602364
+    "Location": "western North America",
+    "Details": "He lived at the very end of the age of the dinosaurs, in the Late Cretaceous, 66 million years ago, in western North America.",
+    "Image": "https://raw.githubusercontent.com/enzo-jehl/FramworkProgramming/master/assignement5/trice.jpg",
+    "Poid": 1000,
+    "Latitude": 50.691918,
+    "Longitude": -476.802201
   },
   {
     "Name": "galliminus",
     "Location": "mongolia",
-    "Details": "ayant vécu à la fin du Crétacé (Maastrichtien inférieur) et découvert dans la formation de Nemegt en Mongolie.",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/bluemonkey.jpg",
-    "Population": 12000,
-    "Latitude": 1.957709,
-    "Longitude": 37.297204
+    "Details": "Lived in the Late Cretaceous (Lower Maastrichtian) and found in the Nemegt Formation in Mongolia.",
+    "Image": "https://raw.githubusercontent.com/enzo-jehl/FramworkProgramming/master/assignement5/galli.jpg",
+    "Poid": 200,
+    "Latitude": 45.460108,
+    "Longitude": -255.799249
   },
   {
     "Name": "spinausorus",
-    "Location": "Afrique du Nord ",
-    "Details": " ayant vécu à l'Albien (partie supérieure du Crétacé inférieur, il y a environ 100 Ma) et au Cénomanien (base du Crétacé supérieur, il y a environ 97 Ma), dans ce qui est actuellement l'Afrique du Norda",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/saimiri.jpg",
-    "Population": 11000,
-    "Latitude": -8.783195,
-    "Longitude": -55.491477
+    "Location": "North Africa",
+    "Details": "Lived in the Albian (upper part of the Lower Cretaceous, around 100 Ma ago) and in the Cenomanian (base of the Upper Cretaceous, about 97 Ma ago), in what is now North Africa",
+    "Image": "https://raw.githubusercontent.com/enzo-jehl/FramworkProgramming/master/assignement5/spino.jpg",
+    "Poid": 9000,
+    "Latitude": 24.814657,
+    "Longitude": -348.150445
   },
   {
     "Name": "ptérodactyle",
-    "Location": " Europe",
-    "Details": "est un genre éteint de ptérosaures ayant vécu au Jurassique supérieur en Europe, il y a environ 150 Ma.",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/tamarin.jpg",
-    "Population": 19000,
-    "Latitude": -14.235004,
-    "Longitude": -51.92528
+    "Location": "Europe",
+    "Details": "is an extinct genus of pterosaurs that lived in the Upper Jurassic in Europe, around 150 Ma ago.",
+    "Image": "https://raw.githubusercontent.com/enzo-jehl/FramworkProgramming/master/assignement5/ptera.jpg",
+    "Poid": 2,
+    "Latitude": 47.966386,
+    "Longitude": -349.205836
   },
   {
     "Name": "diplodocus",
-    "Location": "ouest des États-Unis",
-    "Details": "Il vivait dans l'actuel ouest des États-Unis à la fin du Jurassique, il y a 150 millions d'années.",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/alouatta.jpg",
-    "Population": 8000,
-    "Latitude": -8.783195,
-    "Longitude": -55.491477
+    "Location": "western North America",
+    "Details": "He lived in what is now the western United States during the Late Jurassic period, 150 million years ago..",
+    "Image": "https://raw.githubusercontent.com/enzo-jehl/FramworkProgramming/master/assignement5/diplo.jpg",
+    "Poid": 15000,
+    "Latitude": 49.359479,
+    "Longitude": -477.966443
   }
 ]
