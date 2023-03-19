@@ -706,6 +706,9 @@
     <AppxPackagedFile Include="C:\Users\enzoj\Documents\EPITA\2\OCR\FramworkProgramming\assignement5\app\Finish\MonkeyFinder\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\enzoj\Documents\EPITA\2\OCR\FramworkProgramming\assignement5\app\Finish\MonkeyFinder\Resources\Raw\dinodata.json">
+      <PackagePath>dinodata.json</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\enzoj\Documents\EPITA\2\OCR\FramworkProgramming\assignement5\app\Finish\MonkeyFinder\Resources\Raw\monkeydata.json">
       <PackagePath>monkeydata.json</PackagePath>
     </AppxPackagedFile>

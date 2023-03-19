@@ -29,25 +29,25 @@
     <AppXManifest Include="C:\Users\enzoj\Documents\EPITA\2\OCR\FramworkProgramming\assignement5\app\Finish\MonkeyFinder\bin\Debug\net7.0-windows10.0.19041\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-03-16T02:09:47.574</Modified>
+      <Modified>2023-03-19T02:01:44.606</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\enzoj\Documents\EPITA\2\OCR\FramworkProgramming\assignement5\app\Finish\MonkeyFinder\bin\Debug\net7.0-windows10.0.19041\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-03-16T02:09:47.298</Modified>
+      <Modified>2023-03-19T02:01:44.171</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\enzoj\Documents\EPITA\2\OCR\FramworkProgramming\assignement5\app\Finish\MonkeyFinder\bin\Debug\net7.0-windows10.0.19041\win10-x64\MonkeyFinder.runtimeconfig.json">
       <PackagePath>MonkeyFinder.runtimeconfig.json</PackagePath>
-      <Modified>2023-03-16T02:09:47.142</Modified>
+      <Modified>2023-03-19T02:01:43.611</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\enzoj\Documents\EPITA\2\OCR\FramworkProgramming\assignement5\app\Finish\MonkeyFinder\bin\Debug\net7.0-windows10.0.19041\win10-x64\MonkeyFinder.dll">
       <PackagePath>MonkeyFinder.dll</PackagePath>
-      <Modified>2023-03-16T02:09:46.186</Modified>
+      <Modified>2023-03-19T02:01:40.514</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\enzoj\Documents\EPITA\2\OCR\FramworkProgramming\assignement5\app\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\apphost.exe">
       <PackagePath>MonkeyFinder.exe</PackagePath>
-      <Modified>2023-03-16T02:09:46.208</Modified>
+      <Modified>2023-03-19T02:01:40.564</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\enzoj\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.3\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -923,7 +923,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\enzoj\Documents\EPITA\2\OCR\FramworkProgramming\assignement5\app\Finish\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\MonkeyFinder.deps.json">
       <PackagePath>MonkeyFinder.deps.json</PackagePath>
-      <Modified>2023-03-16T02:09:47.455</Modified>
+      <Modified>2023-03-19T02:01:44.399</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\7.0.59\ref\net7.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -940,6 +940,10 @@
     <AppxPackagedFile Include="C:\Users\enzoj\Documents\EPITA\2\OCR\FramworkProgramming\assignement5\app\Finish\MonkeyFinder\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
       <Modified>2023-03-15T23:49:52.136</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\enzoj\Documents\EPITA\2\OCR\FramworkProgramming\assignement5\app\Finish\MonkeyFinder\Resources\Raw\dinodata.json">
+      <PackagePath>dinodata.json</PackagePath>
+      <Modified>2023-03-16T01:31:19.373</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\enzoj\Documents\EPITA\2\OCR\FramworkProgramming\assignement5\app\Finish\MonkeyFinder\Resources\Raw\monkeydata.json">
       <PackagePath>monkeydata.json</PackagePath>
